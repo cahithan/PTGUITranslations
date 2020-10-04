@@ -4,10 +4,10 @@
     "trailer": "Trailer"
   },
   "dtMsgs": {
-    "noRecords": "No records found.",
-    "totalRecords": "Total records",
+    "noRecords": "kayıt bulunamadı.",
+    "totalRecords": "Tüm kayıtlar",
     "excel": "Excel",
-    "search": "Search",
+    "search": "Ara",
     "showEntries": "Show _MENU_ entries",
     "all": "all",
     "previous": "Previous",
