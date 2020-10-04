@@ -17,34 +17,34 @@
   "sidebar": {
     "monitoring": "Analiz Ediliyor",
     "possibleBuyLog": "Alım Fırsatı",
-    "pairsLog": "Pairs",
+    "pairsLog": "İşlem Çifti",
     "dcaLog": "DCA",
-    "pendingLog": "Pending",
-    "salesLog": "Sales",
+    "pendingLog": "Bekleyen",
+    "salesLog": "Satılan",
     "dustLog": "Dust",
-    "config": "Config",
-    "buyLog": "Buy",
+    "config": "Ayar",
+    "buyLog": "Alım",
     "apiLogs": "Logs",
-    "news": "News",
+    "news": "Haberler",
     "shorting": "Shorting",
     "proTools": "Pro",
-    "activeConfig": "Active Config",
-    "otherConfigs": "Other Configs",
-    "miscCoins": "Misc. Coins",
-    "reservedLog": "Reserved Coins",
-    "reversalLog": "Reversal Coins",
-    "notifications": "Notifications",
-    "stats": "Stats",
-    "account": "Account",
-    "hotconfig": "Hot Config",
+    "activeConfig": "Aktif Ayar",
+    "otherConfigs": "Diğer Ayarlar",
+    "miscCoins": "Çeşitli Koinler",
+    "reservedLog": "Rezerve Koinler",
+    "reversalLog": "Reversal Koinler",
+    "notifications": "Uyarılar",
+    "stats": "İstatistikler",
+    "account": "Hesap",
+    "hotconfig": "Hazır Ayar",
     "ptfeeder": "PTFeeder"
   },
   "news": {
-    "postedOn": "Posted on"
+    "postedOn": "Yayınlanan"
   },
   "pageHeadings": {
-    "configuration": "Configuration",
-    "totalLog": "Total Log"
+    "configuration": "Yapılandırma",
+    "totalLog": "Toplam Log"
   },
   "configOptions": {
     "pairs": "Pairs",
