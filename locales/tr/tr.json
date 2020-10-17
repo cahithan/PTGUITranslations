@@ -4,93 +4,93 @@
     "trailer": "Trailer"
   },
   "dtMsgs": {
-    "noRecords": "No records found.",
-    "totalRecords": "Total records",
+    "noRecords": "Kayıt bulunamadı.",
+    "totalRecords": "Tüm Kayıtlar",
     "excel": "Excel",
-    "search": "Search",
-    "showEntries": "Show _MENU_ entries",
-    "all": "all",
-    "previous": "Previous",
-    "next": "Next",
-    "filtered": "(filtered from _MAX_ total records)"
+    "search": "Ara",
+    "showEntries": "Menü girişlerini göster",
+    "all": "hepsi",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "filtered": "(Maksimum toplam kayıttan filtrelendi)"
   },
   "sidebar": {
-    "monitoring": "Monitor",
-    "possibleBuyLog": "Possible Buy",
-    "pairsLog": "Pairs",
+    "monitoring": "İzleniyor",
+    "possibleBuyLog": "Alım Fırsatı",
+    "pairsLog": "Çiftler",
     "dcaLog": "DCA",
-    "pendingLog": "Pending",
-    "salesLog": "Sales",
-    "dustLog": "Dust",
-    "config": "Config",
-    "buyLog": "Buy",
-    "apiLogs": "Logs",
-    "news": "News",
+    "pendingLog": "Beklemede",
+    "salesLog": "Satış",
+    "dustLog": "En az alım miktarından düşük",
+    "config": "Ayar",
+    "buyLog": "Alış",
+    "apiLogs": "Günlük",
+    "news": "Haberler",
     "shorting": "Shorting",
     "proTools": "Pro",
-    "activeConfig": "Active Config",
-    "otherConfigs": "Other Configs",
-    "miscCoins": "Misc. Coins",
-    "reservedLog": "Reserved Coins",
+    "activeConfig": "Aktif Ayar",
+    "otherConfigs": "Diğer Ayarlar",
+    "miscCoins": "Çeşitli Koinler",
+    "reservedLog": "Rezerve Koinler",
     "reversalLog": "Reversal Coins",
-    "notifications": "Notifications",
-    "stats": "Stats",
-    "account": "Account",
-    "hotconfig": "Hot Config",
+    "notifications": "Bildirimler",
+    "stats": "İstatistikler",
+    "account": "Hesap",
+    "hotconfig": "Hızlı Ayar",
     "ptfeeder": "PTFeeder"
   },
   "news": {
-    "postedOn": "Posted on"
+    "postedOn": "Yayınlanan"
   },
   "pageHeadings": {
-    "configuration": "Configuration",
-    "totalLog": "Total Log"
+    "configuration": "Konfigürasyon",
+    "totalLog": "Toplam Günlük"
   },
   "configOptions": {
-    "pairs": "Pairs",
+    "pairs": "Çiftler",
     "dca": "DCA",
-    "indicators": "Indicators",
-    "hotConfig": "HotConfig",
-    "default": "DEFAULT",
-    "notSaved": "NOT Saved!"
+    "indicators": "Göstergeler",
+    "hotConfig": "Hızlı Ayar",
+    "default": "VARSAYILAN",
+    "notSaved": "Kaydedilmedi!"
   },
   "proTools": {
-    "dashboard": "Dashboard",
-    "dcaCalculator": "Calculator"
+    "dashboard": "Gösterge Paneli",
+    "dcaCalculator": "Hesaplayıcı"
   },
   "dailyProfitTable": {
     "date": {
-      "colTitle": "Date",
-      "colName": "Date"
+      "colTitle": "Tarih",
+      "colName": "Tarih"
     },
     "sells": {
-      "colTitle": "Sells",
-      "colName": "Sells"
+      "colTitle": "Satışlar",
+      "colName": "Satışlar"
     },
     "boughtCost": {
-      "colTitle": "Bought Cost",
-      "colName": "Bought Cost"
+      "colTitle": "Alım Maliyeti",
+      "colName": "Alım Maliyeti"
     },
     "soldValue": {
-      "colTitle": "Sold Value",
-      "colName": "Sold Value"
+      "colTitle": "Satış Değeri",
+      "colName": "Satış Değeri"
     },
     "profits": {
-      "colTitle": "Profits",
-      "colName": "Profits"
+      "colTitle": "Kâr",
+      "colName": Kâr"
     },
     "profitPerc": {
-      "colTitle": "Profit %",
-      "colName": "Profit %"
+      "colTitle": "Kâr %",
+      "colName": "Kâr %"
     }
   },
   "summaryItems": {
     "balance": {
-      "title": "Balance",
-      "label": "BAL"
+      "title": "Bakiye",
+      "label": "bakiye"
     },
     "testMode": {
-      "label": "TESTMODE"
+      "label": "TEST MODU"
     },
     "testNet": {
       "label": "TESTNET"
@@ -99,140 +99,140 @@
       "label": "N/A"
     },
     "price": {
-      "title": "Price",
-      "label": "Price"
+      "title": "Fiyat",
+      "label": "Fiyat"
     },
     "tcv": {
-      "title": "Total Current Value",
+      "title": "Toplam Şimdiki Değeri",
       "label": "TCV"
     },
     "sb": {
-      "title": "Start Balance",
+      "title": "Başlangıç Bakiyesi",
       "label": "SB"
     },
     "profit": {
-      "title": "Profit",
+      "title": "Kâr",
       "label": "P",
-      "fullText": "Profit"
+      "fullText": "Kâr"
     },
     "lw": {
-      "title": "Profit Last Week",
+      "title": "Geçen Haftaki Kâr",
       "label": "LW"
     },
     "yd": {
-      "title": "Profit Yesterday",
+      "title": "Önceki Gün Kârı",
       "label": "YD"
     },
     "td": {
-      "title": "Profit Today",
+      "title": "Bugünün Kârı",
       "label": "TD"
     },
     "trend": {
       "title": "Trend",
       "label": "T",
-      "suffix": " last 24 Hours!"
+      "suffix": " Son 24 Saat!"
     },
     "imageTitles": {
-      "fullScreen": "Fullscreen"
+      "fullScreen": "Tam ekran"
     },
-    "updated": "Updated {{- timeAgo}}",
+    "updated": "Güncellendi {{- zaman önce}}",
     "marginTrading": {
       "label": "MARGIN"
     }
   },
   "settingInfo": {
-    "active": "Active",
-    "reset": "Reset",
+    "active": "Aktif",
+    "reset": "Sıfırla-Resetle",
     "uptime": {
-      "title": "Uptime of ProfitTrailer",
-      "label": "Uptime: "
+      "title": "ProfitTrailer Çalışma Süresi",
+      "label": "Çalışma süresi: "
     },
     "chngePswrd": {
-      "label": "Change Passwords",
-      "title": "Role should be \"{{ role }}\" to change passwords.",
+      "label": "Parola Değiştir",
+      "title": "Rol olmalı \"{{ role }}\" şifreleri değiştirmek için.",
       "tabs": {
-        "admin": "Admin password",
-        "moniter": "Monitor password"
+        "admin": "Admin şifresi",
+        "moniter": "İzleme Şifresi"
       }
     },
     "noPswrdAndConfig": {
-      "title": "Please enable password/config in your application file to enable this function."
+      "title": "Bu işlevi etkinleştirmek için lütfen uygulama dosyanızda şifre / yapılandırmayı etkinleştirin."
     },
     "noEnableShutdown": {
-      "title": "Please enable password/shutdown in your application file to enable this function."
+      "title": "Bu işlevi etkinleştirmek için lütfen uygulama dosyanızdaki şifreyi / kapatmayı etkinleştirin."
     },
     "incorrectRole": {
-      "title": "Login in as Admin to get access to these buttons."
+      "title": "Bu düğmelere erişmek için Yönetici olarak giriş yapın."
     },
     "noPswrd": {
-      "title": "Please enable password in your application file to enable this function."
+      "title": "Bu işlevi etkinleştirmek için lütfen uygulama dosyanızda şifreyi etkinleştirin."
     },
     "market": {
       "label": "Market: ",
-      "title": "Your Exchange and Coin"
+      "title": "Borsanız ve Seçtiğiniz Kripto Koin"
     },
     "currency": {
-      "title": "Currency"
+      "title": "Para birimi"
     },
     "config": {
-      "label": "Config: ",
+      "label": "Ayar: ",
       "title": "Can be changed in Application file"
     },
     "password": {
       "label": "Password: ",
-      "title": "Can be changed in Application file"
+      "title": "Uygulama dosyasında değiştirilebilir"
     },
     "som": {
       "label": "SOM: "
     },
     "somOnOff": {
       "label": "SOM",
-      "subLabel": "SOM Inactive/Active",
-      "title": "Sell Only Mode",
+      "subLabel": "SOM Aktif Değil/Aktif",
+      "title": "Satış Modu",
       "globalLabel": "Global SOM",
-      "ON": "ON",
-      "OFF": "OFF"
+      "ON": "Açık",
+      "OFF": "Kapalı"
     },
     "somo": {
       "label": "SOMO: ",
-      "title": "Sell Only Mode Override"
+      "title": "Satış Modunu İptal et"
     },
     "heartbeats": {
       "label": "Heartbeats"
     },
     "settings": {
-      "label": "Settings"
+      "label": "Düzenlemeler"
     },
     "somoOnOff": {
       "label": "SOMO",
-      "subLabel": "SOMO Inactive/Active",
-      "optionOne": "Disabled",
-      "optionTwo": "Forced ON",
-      "optionThree": "Forced OFF"
+      "subLabel": "SOMO Aktif Değil/Aktif",
+      "optionOne": "Devre dışı",
+      "optionTwo": "Çalışmaya Zorla",
+      "optionThree": "Kapanmaya Zorla"
     },
     "time": {
-      "label": "Time: ",
-      "title": "Current Timezone time"
+      "label": "Zaman: ",
+      "title": "Geçerli Saat Dilimi zamanı"
     },
     "utc": {
-      "title": "Exchange Server Time / UTC",
-      "labelFullText": "UTC Time:",
+      "title": "Borsa Sunucusu Saati / UTC",
+      "labelFullText": "UTC zamanı:",
       "labelShortText": "UTC:"
     },
     "logout": {
-      "label": "Logout"
+      "label": "Çıkış Yap"
     },
     "setup": {
-      "label": "Setup"
+      "label": "Kurulum"
     },
     "changeConfig": {
-      "label": "Public Configs",
-      "title": "Role should be \"{{ role }}\" to download configs."
+      "label": "Genel Yapılandırmalar",
+      "title": "Rol olmalı \"{{ role }}\" yapılandırmaları indirmek için."
     }
   },
   "monitoringSection": {
-    "feed": "News",
-    "signal": "Subscriptions",
+    "feed": "Haberler",
+    "signal": "Abonelikler",
     "topFiveMarkets": {
       "btc": "BTC ",
       "eth": "ETH ",
@@ -241,37 +241,37 @@
       "ltc": "LTC "
     },
     "pairsBal": {
-      "label": "Pairs Balance"
+      "label": "Koin Bakiyesi Balance"
     },
     "dcaBal": {
-      "label": "DCA Balance"
+      "label": "DCA Bakiyesi"
     },
     "coinTopMarket": {
-      "title": "CoinGecko Top 5 Coins"
+      "title": "CoinGecko En İyi 5 Koin"
     },
     "volume": {
-      "label": "Volume"
+      "label": "Hacim"
     },
     "trade": {
-      "label": "Trades"
+      "label": "Trade İşlemleri"
     },
     "globalMarket": {
-      "totalMarketCap": "Total Market Cap",
-      "total24HrsVol": "Total 24 Hour Volume",
-      "bitcoinMarketCap": "Bitcoin % of Market Cap",
-      "title": "CoinGecko - Total"
+      "totalMarketCap": "Toplam Pazar Değeri",
+      "total24HrsVol": "Toplam 24 Saatlik Hacim",
+      "bitcoinMarketCap": "Bitcoin % Piyasa Değerinin",
+      "title": "CoinGecko - Toplam"
     },
-    "usdFullText": " Estimated Value",
-    "usdShortText": " Est. Value",
-    "gainFullText": "Estimated Gain",
-    "gainShortText": "Est. Gain",
-    "heading": "Monitoring",
+    "usdFullText": " Tahmini değer",
+    "usdShortText": " Tahmini değer",
+    "gainFullText": "Tahmini Kazanç",
+    "gainShortText": "Tahmini Kazanç",
+    "heading": "İzleme",
     "tcvDust": {
       "label": "TCV with Dust",
-      "title": "Total Current Value with your Dust"
+      "title": "Toplam Mevcut Değer-Minimum koin alım miktarı dahil"
     },
-    "notification": "Notification",
-    "trendContainerFirstPart": "The % trend of 50 top ",
+    "notification": "Bildirim",
+    "trendContainerFirstPart": "TOP50 % trendi ",
     "trendContainerSecondPart": "coins from your market the last 24 hours",
     "trend24H": "Trend 24H",
     "balance": {
